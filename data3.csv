@@ -1,1 +1,22 @@
-[{'age': 23, 'name': 'anil'}, {'age': 1.8, 'name': 'jay'}, {'age': 0.6, 'name': 'vedha'}]
+(lp0
+(dp1
+S'age'
+p2
+I23
+sS'name'
+p3
+S'anil'
+p4
+sa(dp5
+g2
+F1.8
+sg3
+S'jay'
+p6
+sa(dp7
+g2
+F0.6
+sg3
+S'vedha'
+p8
+sa.
