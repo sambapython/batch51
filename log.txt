@@ -1,0 +1,26 @@
+2018-12-01 08:34:19,242==>WARNING=>warning messages
+2018-12-01 08:34:19,242==>INFO=>info messages
+2018-12-01 08:34:19,248==>ERROR=>error messages
+2018-12-01 08:34:19,248==>DEBUG=>debug message
+2018-12-01 08:40:21,152==>INFO=>program started.
+2018-12-01 08:40:23,685==>DEBUG=>before conversion a=12, b=6
+2018-12-01 08:40:23,685==>DEBUG=>after conversion a=12.0, b=6.0
+2018-12-01 08:40:23,686==>DEBUG=>result=2.0
+2018-12-01 08:40:23,686==>INFO=>main after except
+2018-12-01 08:40:23,686==>INFO=>other statements in program
+2018-12-01 08:40:23,686==>INFO=>program ended.
+2018-12-01 08:40:50,336==>INFO=>program started.
+2018-12-01 08:40:52,357==>DEBUG=>before conversion a=12, b=0
+2018-12-01 08:40:52,357==>DEBUG=>after conversion a=12.0, b=0.0
+2018-12-01 08:40:52,357==>ERROR=>float division by zero
+2018-12-01 08:40:52,358==>ERROR=>dont eter zero for b
+2018-12-01 08:40:52,358==>INFO=>main after except
+2018-12-01 08:40:52,358==>INFO=>other statements in program
+2018-12-01 08:40:52,358==>INFO=>program ended.
+2018-12-01 08:42:18,569==>INFO=>program started.
+2018-12-01 08:42:22,446==>DEBUG=>before conversion a=erew, b=werw
+2018-12-01 08:42:22,447==>ERROR=>could not convert string to float: erew
+2018-12-01 08:42:22,447==>ERROR=>expecting only digits
+2018-12-01 08:42:22,447==>INFO=>main after except
+2018-12-01 08:42:22,447==>INFO=>other statements in program
+2018-12-01 08:42:22,447==>INFO=>program ended.
